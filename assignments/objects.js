@@ -26,7 +26,7 @@ const mitzi = {
   id: 0,
   name: "Mitzi",
   email: "mmelloy0@psu.edu",
-  gender: "F",
+  gender: "F"
 }
 
 console.log(mitzi);
